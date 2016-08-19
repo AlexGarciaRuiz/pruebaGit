@@ -12,6 +12,8 @@ import UIKit
 // modificación en master
 class ViewController: UIViewController {
 
+    // Comentarios adicionales para el proceso de replicacion.
+    
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
